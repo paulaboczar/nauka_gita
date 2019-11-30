@@ -1,1 +1,2 @@
 Pierwszy commit
+Kolejna zmiana
